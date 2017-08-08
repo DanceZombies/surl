@@ -1,0 +1,27 @@
+{
+  "name": "sina-surl",
+  "version": "0.0.1",
+  "description": "a generation short urls library for Node.js.",
+  "main": "surl.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanceZombies/surl.git"
+  },
+  "keywords": [
+    "surl",
+    "shorturl"
+  ],
+  "author": "gaoq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanceZombies/surl/issues"
+  },
+  "homepage": "https://github.com/DanceZombies/surl",
+  "dependencies": {
+    "mocha": "^3.5.0",
+    "request-promise": "^4.2.1"
+  }
+}
